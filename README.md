@@ -1,9 +1,9 @@
 "# GalosGame" 
 Unity version 5.5.0f3
 
-Update your unity version to version described above.
+Update your unity version to version described above before cloning project.
 
-After updating unity to newer version write down new version to README.md
+After updating unity to newer version than described above write down new version to README.md
 
 git terminal commands:
 
