@@ -1,10 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\FirstPersonController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LIFE\Exporter\Editor\Object2Terrain.cs">
     <Files>
-      <File FileName="Assets\Controller.cs" Line="45" Column="2" />
+      <File FileName="Assets\Controller.cs" Line="1" Column="1" />
       <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" Line="1" Column="1" />
-      <File FileName="Assets\FirstPersonController.cs" Line="78" Column="34" />
+      <File FileName="Assets\FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\LIFE\Exporter\Editor\Object2Terrain.cs" Line="131" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

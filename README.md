@@ -7,6 +7,11 @@ After updating unity to newer version than described above write down new versio
 
 git terminal commands:
 
+Getting project from repository
+
+git clone
+
+Uploading project back to repository
 
 git add . (Adds the file to your local repository and stages it for commit)
 
